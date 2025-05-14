@@ -1,4 +1,6 @@
+// @ts-ignore
 import { CustomerReviews, Footer, Hero, PopularProducts, Services, SpecialOffer, SuperQuality, Subscribe } from "./sections";
+// @ts-ignore
 import Nav from "./components/Nav.jsx";
 
 const App = () => (
