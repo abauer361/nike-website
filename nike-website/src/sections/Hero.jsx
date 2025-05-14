@@ -2,7 +2,7 @@ import Button from "../components/Button"
 import { arrowRight } from "../assets/icons"
 import { shoes, statistics } from "../constants"
 import { bigShoe1 } from "../assets/images";
-import Shoecard from "../components/Shoecard";
+import Shoecard from "../components/ShoeCard";
 import { useState } from 'react'
 
 const Hero = () => {
