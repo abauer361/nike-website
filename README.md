@@ -1,6 +1,6 @@
 # Nike Project Website
 
-andrew-bauer-nike.com
+andrew-bauer.com/nike
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
