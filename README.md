@@ -1,6 +1,6 @@
 # Nike Project Website
 
-andrew-bauer.com/nike
+Website: andrew-bauer.com/tailwind
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -58,5 +58,3 @@ andrew-bauer.com/nike
 
 Credit for Tutorial: https://www.youtube.com/watch?v=tS7upsfuxmo&t=5470s
 Github: https://github.com/adrianhajdin/nike_landing_page/tree/main
-
-Website: andrew-bauer.com/tailwind
