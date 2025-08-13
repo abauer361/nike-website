@@ -58,3 +58,5 @@ andrew-bauer.com/nike
 
 Credit for Tutorial: https://www.youtube.com/watch?v=tS7upsfuxmo&t=5470s
 Github: https://github.com/adrianhajdin/nike_landing_page/tree/main
+
+Website: andrew-bauer.com/tailwind
